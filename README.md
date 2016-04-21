@@ -42,3 +42,28 @@ individual.  There are two types of individual liberty that are pertinent here:
 
   [^1]: http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9354310 "Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens"
 
+## Social Liberty
+
+Social liberty is the level of government involvement, as defined by analysis of harm reduction, required to ensure individuals' rights to act freely are not infringed upon.
+
+1. **Individual Rights**: The rights of every individual must be articulated simply, likened to that of the Constitution.
+
+   A) Health: the right to be treated as a human being with regards to healthcare issues
+   
+   B) Speech: when not directly infringing upon anothers' individual rights
+   
+   C) Education: the role of education is formative in a more enlightened society. Forms thereof and cost/benefit analysis needed.
+   
+   C) Privacy: elimination of mass surveilance and require a minimum of notifying individuals when their data is collected
+   
+   D) Etc. To be amended.
+
+2. **Quality of Life**: The government cannot ensure a perfect quality of life for everyone given the current resource pool and the damage the extremes of pure communism or socialism would inflict. Analysis aimed at ensuring basic human rights is required to fully articulate this sentiment. Ideas such as longevity, health, protection, safety, education, and resource diversion through taxation need be fully understood before policies can be developed. The ultimate goal is to maximize benefits for all individuals, both in aggregate and on an individual level, to acheive our objective.
+
+   A) **Longevity**: The cost benefit analysis of longevity intervention must be assessed. Declining marginal returns on longevity intervention must be weighed as the cost from whom resources are diverted for the sake of increasingly smaller returns for those who receive the benefit. Longevity increases in an S-Curve fashion according to the wealth of the individual[^1]. Therefore the inflection point of decreasing marginal returns, and how quickly they decline relative to the available resource pool, must be fully understood.
+
+   [^1]: http://www.nytimes.com/interactive/2016/04/11/upshot/for-the-poor-geography-is-life-and-death.html "The Rich Live Longer Everywhere. For the Poor, Geography Matters."
+
+   B) **Health**: 
+
+   
